@@ -8,7 +8,6 @@
 #a. Ukoliko je Switch na "on" reprodukovati proizvoljan zvuk na repeat.
 #b. Ukoliko je Switch na "off" reprodukovati proizvoljan zvuk samo jednom.
 
-
 #5.Kada Checkbox nije čekiran, zvuk se stopira.
 #6.Kreirati model komentara sa sajta https://jsonplaceholder.typicode.com/
 #7.Kada se u prvo EditText polje unese broj, sadržaj drugog EditText polja se zamenjuje sa tekstom komentara sa sajta https://jsonplaceholder.typicode.com pod rednim broj koji odgovara unetom broju u prvo EditText polje.

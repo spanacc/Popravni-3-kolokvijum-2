@@ -1,7 +1,9 @@
 # Popravni-3-kolokvijum-2
 #
 1.Kreirati novi projekat pod nazivom Kolokvijum2. Glavnu aktivnost nazvati MainActivity.
+#
 2.Unutar MainActivity postaviti dva EditText-a, ImageView, Checkbox i Switch jedno ispod drugoga.
+#
 3.Kada su u prvo EditText polje ukuca "kamera", pokrenuti kameru; prihvaćenu sliku prikazati unutar ImageView-a.
 #
 #4.Ukoliko je Checkbox čekiran reprodukuje se proizvoljan zvuk na sledeći način:

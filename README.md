@@ -21,3 +21,7 @@ b. Ukoliko je Switch na "off" reprodukovati proizvoljan zvuk samo jednom.
 8.Kada se Checkbox čekira drugi put, unutar drugog EditText-a prikazati vrednosti lokacije.
 #
 9.Kada se Checkbox čekira treći put, unutar drugog EditText-a prikazati vrednosti akcelerometra.
+#
+#
+NAPOMENA u res naoraviti raw folder i staviti zvuk.mp3
+

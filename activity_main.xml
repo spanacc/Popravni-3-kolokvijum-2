@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etPrvo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Unesi tekst ili broj"
+        android:layout_marginBottom="8dp"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:layout_marginBottom="8dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Checkbox"
+        android:layout_marginBottom="8dp"/>
+
+    <Switch
+        android:id="@+id/switchZvuk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Repeat"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/etDrugo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Komentar / Lokacija / Akcelerometar"
+        android:enabled="false"/>
+
+</LinearLayout>
